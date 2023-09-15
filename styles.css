@@ -1,0 +1,13 @@
+body{
+    margin: 0 15rem;
+}
+.nav ul{
+    list-style: none;
+}
+.logo{
+    padding: 1rem;
+    padding-right: 15rem;
+}
+.navitem{
+    padding: 1rem;
+}
