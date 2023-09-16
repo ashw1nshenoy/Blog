@@ -1,6 +1,6 @@
 body{
     margin: 0 10rem;
-    background-color: blanchedalmond;
+    background-color: whitesmoke;
 }
 /*NAVBAR*/
 .nav ul{
@@ -15,6 +15,9 @@ body{
 a{
     text-decoration: none;
     color: inherit;
+}
+.search{
+    padding: 2rem;
 }
 /*Media Queries*/
 @media only screen and (max-width: 768px){
