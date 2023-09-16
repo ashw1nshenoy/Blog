@@ -1,3 +1,9 @@
 .flex{
     display: flex;
 }
+.justify-between{
+    justify-content: space-between;
+}
+.item-center{
+    align-items: center;
+}

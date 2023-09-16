@@ -1,13 +1,22 @@
 body{
-    margin: 0 15rem;
+    margin: 0 10rem;
+    background-color: blanchedalmond;
 }
+/*NAVBAR*/
 .nav ul{
     list-style: none;
 }
 .logo{
-    padding: 1rem;
-    padding-right: 15rem;
+    padding: 2rem;
 }
-.navitem{
-    padding: 1rem;
+.item{
+    padding-right: 2rem;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+/*Media Queries*/
+@media only screen and (max-width: 768px){
+    
 }
