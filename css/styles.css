@@ -4,7 +4,7 @@ body{
 }
 /*NAVBAR*/
 .nav ul{
-    list-style: none;
+    list-style: none;  
 }
 .logo{
     padding: 2rem;
@@ -18,6 +18,22 @@ a{
 }
 .search{
     padding: 2rem;
+}
+/*About ME*/
+.main{
+    padding: 6rem;
+}
+.myimg{
+    height: 20rem;
+    width: auto;
+    border-radius: 50%;
+    padding: 0 2rem;
+}
+.about{
+    width: 30rem;
+}
+button{
+    width: 5rem;
 }
 /*Media Queries*/
 @media only screen and (max-width: 1150px) and (min-width:500px){
