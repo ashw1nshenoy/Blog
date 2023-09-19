@@ -27,10 +27,11 @@ a{
     height: 20rem;
     width: auto;
     border-radius: 50%;
-    padding: 0 2rem;
+    padding: 0 1.7rem;
 }
 .about{
-    width: 30rem;
+    line-height: 1.7rem;
+    font-size: large;
 }
 button{
     width: 5rem;
