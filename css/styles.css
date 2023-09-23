@@ -37,7 +37,7 @@ a{
 button{
     width: 5rem;
 }
-/*Blogs box*/
+/*Blogs box in main*/
 .blogs{
     flex-direction: column;
 }
@@ -46,6 +46,12 @@ button{
     height: 20rem;
     width: 60%;
     margin: 1rem;
+}
+/*Write a blog*/
+.write{
+    flex-direction: column;
+    position: relative;
+    left: 15%;
 }
 /*Contact Me*/
 .contactbox{
