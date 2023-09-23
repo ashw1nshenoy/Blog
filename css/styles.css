@@ -1,6 +1,7 @@
 body{
     margin: 0 10rem;
-    background-color: whitesmoke;
+    background-color: #ECF2FF;
+    color: #66347F;
 }
 /*NAVBAR*/
 .nav ul{
@@ -35,6 +36,16 @@ a{
 }
 button{
     width: 5rem;
+}
+/*Blogs box*/
+.blogs{
+    flex-direction: column;
+}
+.content{
+    background-color: white;
+    height: 20rem;
+    width: 60%;
+    margin: 1rem;
 }
 /*Media Queries*/
 @media only screen and (max-width: 1150px) and (min-width:500px){
